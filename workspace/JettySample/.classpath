@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/media/OS/Users/nirmal/jetty jars/apache-logging-log4j.jar"/>
+	<classpathentry kind="lib" path="/media/OS/Users/nirmal/jetty jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/media/OS/Users/nirmal/jetty jars/org.mortbay.jetty.jar"/>
+	<classpathentry kind="lib" path="/media/OS/Users/nirmal/jetty-distribution-9.0.0.M5/lib/servlet-api-3.0.jar"/>
+	<classpathentry kind="lib" path="/media/OS/Documents and Settings/nirmal/Documents/jars/java-json.jar"/>
+	<classpathentry kind="lib" path="/media/OS/Documents and Settings/nirmal/Documents/jars/jetty-all-7.0.2.RC0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.0%Foundation-1.0"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
